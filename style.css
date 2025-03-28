@@ -1,0 +1,16 @@
+/*general reset*/
+*{
+    margin: 0;
+    padding: borderbox;
+}
+body{
+    background-color: rgb(103, 168, 212);
+    font-family: Arial, sans-serif;
+    color: wheat;
+}
+
+.container{
+   width: 15%; 
+   text-align: center;
+}
+/*header*
